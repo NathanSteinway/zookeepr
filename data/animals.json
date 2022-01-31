@@ -129,6 +129,33 @@
     },
     {
       "id": "15"
+    },
+    {
+      "name": "Nathan",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Nathan",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Nathan",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "18"
     }
   ]
 }
