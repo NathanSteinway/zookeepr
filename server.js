@@ -40,6 +40,12 @@ function filterByQuery(query, animalsArray) {
 
     }
 
+    if(query.species) {
+
+        filteredResults = filteredResults.filter(animal => animal.species === query.species);
+    }
+
+
     return filteredResults;
   };
 
